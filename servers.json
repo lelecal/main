@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "EU-DMZ",
+      "motd": "\u00A7cDMZ \u00A77- \u00A7fEU",
+      "ip": "176.122.64.111",
+      "port": 9171,
+      "mapName": "bukovka"
+    }
+  ]
+}
